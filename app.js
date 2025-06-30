@@ -1,4 +1,3 @@
-// add new feature
-
-This project was created from local system.
-Created by Kunj Rawat.
+// add new feature.
+Hey Mr. Kunj
+This project was created from local system. Created by Kunj Rawat.
